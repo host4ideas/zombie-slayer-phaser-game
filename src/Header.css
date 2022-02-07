@@ -1,0 +1,195 @@
+@font-face {
+	font-family: 'lycanthrope';
+	src: url('assets/fonts/Lycanthrope.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+
+.App-header {
+	display: inline-flex;
+	background-color: #282c3400;
+	flex-direction: row;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.App-logo {
+	pointer-events: none;
+}
+
+.react-logo {
+	width: 13%;
+}
+
+.phaser-logo {
+	position: relative;
+	left: 50px;
+	width: 8%;
+	height: 8%;
+}
+
+@keyframes App-logo-spin {
+	from {
+		transform: rotate(0deg);
+	}
+
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+@media (prefers-reduced-motion: no-preference) {
+	.App-logo {
+		animation: App-logo-spin infinite 20s linear;
+	}
+}
+
+.horror-text {
+	animation-duration: 2.5s;
+	animation-iteration-count: infinite;
+	animation-name: flickering;
+	animation-timing-function: step-start;
+	color: #611000;
+	font-size: calc(75px + 2vmin);
+	font-family: 'lycanthrope', 'Press Start 2P', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@keyframes flickering {
+	0% {
+		color: #611000;
+		text-shadow: none;
+		transform: skewX(0);
+	}
+
+	5% {
+		color: #611000;
+		text-shadow: none;
+		transform: skewX(0);
+	}
+
+	10% {
+		color: #611000;
+		text-shadow: 1px 1px rgba(148, 148, 148, 0.933);
+		transform: skewX(-15deg);
+	}
+
+	15% {
+		color: #ccc;
+		text-shadow: none;
+		transform: skewX(-15deg);
+	}
+
+	20% {
+		color: #611000;
+		text-shadow: none;
+		transform: skewX(0);
+	}
+
+	25% {
+		color: #ccc;
+		text-shadow: 2px 2px #611000;
+		transform: skewX(0);
+	}
+
+	30% {
+		color: #ccc;
+		text-shadow: 2px 2px #611000;
+		transform: skewX(0);
+	}
+
+	35% {
+		color: #ccc;
+		text-shadow: 2px 2px #611000;
+		transform: skewX(0);
+	}
+
+	37% {
+		color: #ccc;
+		text-shadow: 1px 1px rgba(148, 148, 148, 0.933);
+		transform: skewX(0);
+	}
+
+	40% {
+		color: #611000;
+		text-shadow: 1px 1px rgba(148, 148, 148, 0.933);
+		transform: skewX(0);
+	}
+
+	45% {
+		color: #611000;
+		text-shadow: 1px 1px rgba(148, 148, 148, 0.933);
+		transform: skewX(0);
+	}
+
+	50% {
+		color: #611000;
+		text-shadow: none;
+		transform: skewX(0);
+	}
+
+	55% {
+		color: #611000;
+		text-shadow: none;
+		transform: skewX(0);
+	}
+
+	60% {
+		color: #611000;
+		text-shadow: none;
+		transform: skewX(0);
+	}
+
+	65% {
+		color: #611000;
+		text-shadow: none;
+		transform: skewX(0);
+	}
+
+	68% {
+		color: #611000;
+		text-shadow: 1px 1px rgba(148, 148, 148, 0.933);
+		transform: skewX(0);
+	}
+
+	70% {
+		color: #611000;
+		text-shadow: 1px 1px rgba(148, 148, 148, 0.933);
+		transform: skewX(0);
+	}
+
+	75% {
+		color: #611000;
+		text-shadow: 1px 1px rgba(148, 148, 148, 0.933);
+		transform: skewX(10deg);
+	}
+
+	80% {
+		color: #611000;
+		text-shadow: 1px 1px rgba(148, 148, 148, 0.933);
+		transform: skewX(10deg);
+	}
+
+	85% {
+		color: #611000;
+		text-shadow: 1px 1px rgba(148, 148, 148, 0.933);
+		transform: skewX(10deg);
+	}
+
+	90% {
+		color: #611000;
+		text-shadow: none;
+		transform: skewX(0);
+	}
+
+	95% {
+		color: #611000;
+		text-shadow: 1px 1px rgba(148, 148, 148, 0.933);
+		transform: skewX(0);
+	}
+
+	100% {
+		color: #611000;
+		text-shadow: none;
+		transform: skewX(0);
+	}
+}

@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+	background-color: #282c34;
+	overflow: hidden;
+}
+
+p {
+	line-height: 3em;
+}
+
+ol, li {
+	list-style: none;
+}
+
+.arcade-font {
+	font-family: 'Press Start 2P', cursive;
+}

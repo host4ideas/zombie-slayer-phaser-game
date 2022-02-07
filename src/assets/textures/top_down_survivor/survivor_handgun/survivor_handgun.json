@@ -1,0 +1,1552 @@
+{
+	"textures": [
+		{
+			"image": "survivor_handgun",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1945,
+				"h": 1155
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "survivor-meleeattack_handgun_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 291,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 52,
+						"w": 242,
+						"h": 161
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 242,
+						"h": 161
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_handgun_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 291,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 52,
+						"w": 223,
+						"h": 153
+					},
+					"frame": {
+						"x": 242,
+						"y": 0,
+						"w": 223,
+						"h": 153
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_handgun_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 291,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 46,
+						"w": 216,
+						"h": 154
+					},
+					"frame": {
+						"x": 465,
+						"y": 0,
+						"w": 216,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-reload_handgun_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 260,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 41,
+						"w": 214,
+						"h": 163
+					},
+					"frame": {
+						"x": 242,
+						"y": 153,
+						"w": 214,
+						"h": 163
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_handgun_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 291,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 46,
+						"w": 214,
+						"h": 161
+					},
+					"frame": {
+						"x": 0,
+						"y": 161,
+						"w": 214,
+						"h": 161
+					}
+				},
+				{
+					"filename": "survivor-reload_handgun_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 260,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 41,
+						"w": 212,
+						"h": 160
+					},
+					"frame": {
+						"x": 681,
+						"y": 0,
+						"w": 212,
+						"h": 160
+					}
+				},
+				{
+					"filename": "survivor-reload_handgun_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 260,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 40,
+						"w": 212,
+						"h": 158
+					},
+					"frame": {
+						"x": 456,
+						"y": 154,
+						"w": 212,
+						"h": 158
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 42,
+						"w": 212,
+						"h": 157
+					},
+					"frame": {
+						"x": 456,
+						"y": 312,
+						"w": 212,
+						"h": 157
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 42,
+						"w": 212,
+						"h": 156
+					},
+					"frame": {
+						"x": 456,
+						"y": 469,
+						"w": 212,
+						"h": 156
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 42,
+						"w": 212,
+						"h": 156
+					},
+					"frame": {
+						"x": 214,
+						"y": 316,
+						"w": 212,
+						"h": 156
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 41,
+						"w": 212,
+						"h": 156
+					},
+					"frame": {
+						"x": 0,
+						"y": 322,
+						"w": 212,
+						"h": 156
+					}
+				},
+				{
+					"filename": "survivor-reload_handgun_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 260,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 41,
+						"w": 211,
+						"h": 166
+					},
+					"frame": {
+						"x": 212,
+						"y": 472,
+						"w": 211,
+						"h": 166
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_handgun_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 291,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 42,
+						"w": 211,
+						"h": 164
+					},
+					"frame": {
+						"x": 0,
+						"y": 478,
+						"w": 211,
+						"h": 164
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 40,
+						"w": 211,
+						"h": 156
+					},
+					"frame": {
+						"x": 893,
+						"y": 0,
+						"w": 211,
+						"h": 156
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 41,
+						"w": 211,
+						"h": 155
+					},
+					"frame": {
+						"x": 1104,
+						"y": 0,
+						"w": 211,
+						"h": 155
+					}
+				},
+				{
+					"filename": "survivor-reload_handgun_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 260,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 40,
+						"w": 210,
+						"h": 156
+					},
+					"frame": {
+						"x": 1315,
+						"y": 0,
+						"w": 210,
+						"h": 156
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 40,
+						"w": 210,
+						"h": 155
+					},
+					"frame": {
+						"x": 1104,
+						"y": 155,
+						"w": 210,
+						"h": 155
+					}
+				},
+				{
+					"filename": "survivor-reload_handgun_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 260,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 39,
+						"w": 210,
+						"h": 155
+					},
+					"frame": {
+						"x": 893,
+						"y": 156,
+						"w": 210,
+						"h": 155
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 40,
+						"w": 210,
+						"h": 154
+					},
+					"frame": {
+						"x": 668,
+						"y": 160,
+						"w": 210,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 40,
+						"w": 210,
+						"h": 154
+					},
+					"frame": {
+						"x": 668,
+						"y": 314,
+						"w": 210,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 39,
+						"w": 210,
+						"h": 154
+					},
+					"frame": {
+						"x": 1525,
+						"y": 0,
+						"w": 210,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_handgun_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 291,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 44,
+						"w": 210,
+						"h": 154
+					},
+					"frame": {
+						"x": 1735,
+						"y": 0,
+						"w": 210,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 39,
+						"w": 210,
+						"h": 154
+					},
+					"frame": {
+						"x": 1525,
+						"y": 154,
+						"w": 210,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 39,
+						"w": 210,
+						"h": 154
+					},
+					"frame": {
+						"x": 1314,
+						"y": 156,
+						"w": 210,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 40,
+						"w": 210,
+						"h": 154
+					},
+					"frame": {
+						"x": 1735,
+						"y": 154,
+						"w": 210,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 39,
+						"w": 210,
+						"h": 154
+					},
+					"frame": {
+						"x": 1524,
+						"y": 308,
+						"w": 210,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-reload_handgun_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 260,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 39,
+						"w": 210,
+						"h": 154
+					},
+					"frame": {
+						"x": 1734,
+						"y": 308,
+						"w": 210,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-reload_handgun_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 260,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 39,
+						"w": 210,
+						"h": 154
+					},
+					"frame": {
+						"x": 1103,
+						"y": 310,
+						"w": 210,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-shoot_handgun_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 255,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 39,
+						"w": 210,
+						"h": 154
+					},
+					"frame": {
+						"x": 1313,
+						"y": 310,
+						"w": 210,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-reload_handgun_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 260,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 39,
+						"w": 209,
+						"h": 157
+					},
+					"frame": {
+						"x": 878,
+						"y": 311,
+						"w": 209,
+						"h": 157
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 39,
+						"w": 209,
+						"h": 154
+					},
+					"frame": {
+						"x": 1523,
+						"y": 462,
+						"w": 209,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-reload_handgun_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 260,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 39,
+						"w": 209,
+						"h": 154
+					},
+					"frame": {
+						"x": 1732,
+						"y": 462,
+						"w": 209,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 38,
+						"w": 209,
+						"h": 153
+					},
+					"frame": {
+						"x": 1087,
+						"y": 464,
+						"w": 209,
+						"h": 153
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 38,
+						"w": 209,
+						"h": 153
+					},
+					"frame": {
+						"x": 1296,
+						"y": 464,
+						"w": 209,
+						"h": 153
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 39,
+						"w": 209,
+						"h": 153
+					},
+					"frame": {
+						"x": 668,
+						"y": 468,
+						"w": 209,
+						"h": 153
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 39,
+						"w": 209,
+						"h": 153
+					},
+					"frame": {
+						"x": 877,
+						"y": 468,
+						"w": 209,
+						"h": 153
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 38,
+						"w": 209,
+						"h": 152
+					},
+					"frame": {
+						"x": 1505,
+						"y": 616,
+						"w": 209,
+						"h": 152
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 38,
+						"w": 209,
+						"h": 152
+					},
+					"frame": {
+						"x": 1714,
+						"y": 616,
+						"w": 209,
+						"h": 152
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 39,
+						"w": 209,
+						"h": 152
+					},
+					"frame": {
+						"x": 1086,
+						"y": 617,
+						"w": 209,
+						"h": 152
+					}
+				},
+				{
+					"filename": "survivor-reload_handgun_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 260,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 41,
+						"w": 208,
+						"h": 169
+					},
+					"frame": {
+						"x": 1295,
+						"y": 617,
+						"w": 208,
+						"h": 169
+					}
+				},
+				{
+					"filename": "survivor-reload_handgun_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 260,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 39,
+						"w": 208,
+						"h": 161
+					},
+					"frame": {
+						"x": 668,
+						"y": 621,
+						"w": 208,
+						"h": 161
+					}
+				},
+				{
+					"filename": "survivor-reload_handgun_9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 260,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 40,
+						"w": 207,
+						"h": 168
+					},
+					"frame": {
+						"x": 876,
+						"y": 621,
+						"w": 207,
+						"h": 168
+					}
+				},
+				{
+					"filename": "survivor-reload_handgun_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 260,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 40,
+						"w": 207,
+						"h": 164
+					},
+					"frame": {
+						"x": 1083,
+						"y": 769,
+						"w": 207,
+						"h": 164
+					}
+				},
+				{
+					"filename": "survivor-reload_handgun_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 260,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 40,
+						"w": 206,
+						"h": 172
+					},
+					"frame": {
+						"x": 1083,
+						"y": 933,
+						"w": 206,
+						"h": 172
+					}
+				},
+				{
+					"filename": "survivor-shoot_handgun_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 255,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 39,
+						"w": 205,
+						"h": 154
+					},
+					"frame": {
+						"x": 423,
+						"y": 625,
+						"w": 205,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_handgun_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 291,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 43,
+						"w": 204,
+						"h": 161
+					},
+					"frame": {
+						"x": 211,
+						"y": 638,
+						"w": 204,
+						"h": 161
+					}
+				},
+				{
+					"filename": "survivor-shoot_handgun_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 255,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 39,
+						"w": 200,
+						"h": 154
+					},
+					"frame": {
+						"x": 0,
+						"y": 642,
+						"w": 200,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_handgun_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 291,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 37,
+						"w": 194,
+						"h": 169
+					},
+					"frame": {
+						"x": 0,
+						"y": 796,
+						"w": 194,
+						"h": 169
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_handgun_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 291,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 19,
+						"w": 191,
+						"h": 182
+					},
+					"frame": {
+						"x": 415,
+						"y": 779,
+						"w": 191,
+						"h": 182
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_handgun_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 291,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 42,
+						"w": 188,
+						"h": 173
+					},
+					"frame": {
+						"x": 194,
+						"y": 799,
+						"w": 188,
+						"h": 173
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_handgun_9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 291,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 11,
+						"w": 185,
+						"h": 190
+					},
+					"frame": {
+						"x": 0,
+						"y": 965,
+						"w": 185,
+						"h": 190
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_handgun_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 291,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 46,
+						"w": 181,
+						"h": 189
+					},
+					"frame": {
+						"x": 606,
+						"y": 782,
+						"w": 181,
+						"h": 189
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_handgun_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 291,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 42,
+						"w": 169,
+						"h": 181
+					},
+					"frame": {
+						"x": 382,
+						"y": 961,
+						"w": 169,
+						"h": 181
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_handgun_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 291,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 42,
+						"w": 161,
+						"h": 178
+					},
+					"frame": {
+						"x": 185,
+						"y": 972,
+						"w": 161,
+						"h": 178
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_handgun_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 291,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 42,
+						"w": 155,
+						"h": 181
+					},
+					"frame": {
+						"x": 787,
+						"y": 789,
+						"w": 155,
+						"h": 181
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 40,
+						"w": 210,
+						"h": 154
+					},
+					"frame": {
+						"x": 668,
+						"y": 314,
+						"w": 210,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 38,
+						"w": 209,
+						"h": 152
+					},
+					"frame": {
+						"x": 1714,
+						"y": 616,
+						"w": 209,
+						"h": 152
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 38,
+						"w": 209,
+						"h": 153
+					},
+					"frame": {
+						"x": 1087,
+						"y": 464,
+						"w": 209,
+						"h": 153
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 38,
+						"w": 209,
+						"h": 153
+					},
+					"frame": {
+						"x": 1296,
+						"y": 464,
+						"w": 209,
+						"h": 153
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 39,
+						"w": 209,
+						"h": 152
+					},
+					"frame": {
+						"x": 1086,
+						"y": 617,
+						"w": 209,
+						"h": 152
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 39,
+						"w": 209,
+						"h": 153
+					},
+					"frame": {
+						"x": 668,
+						"y": 468,
+						"w": 209,
+						"h": 153
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 39,
+						"w": 209,
+						"h": 153
+					},
+					"frame": {
+						"x": 877,
+						"y": 468,
+						"w": 209,
+						"h": 153
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 39,
+						"w": 209,
+						"h": 154
+					},
+					"frame": {
+						"x": 1523,
+						"y": 462,
+						"w": 209,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-idle_handgun_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 216
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 39,
+						"w": 210,
+						"h": 154
+					},
+					"frame": {
+						"x": 1525,
+						"y": 0,
+						"w": 210,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 39,
+						"w": 210,
+						"h": 154
+					},
+					"frame": {
+						"x": 1314,
+						"y": 156,
+						"w": 210,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 42,
+						"w": 212,
+						"h": 156
+					},
+					"frame": {
+						"x": 456,
+						"y": 469,
+						"w": 212,
+						"h": 156
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 42,
+						"w": 212,
+						"h": 156
+					},
+					"frame": {
+						"x": 214,
+						"y": 316,
+						"w": 212,
+						"h": 156
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 41,
+						"w": 212,
+						"h": 156
+					},
+					"frame": {
+						"x": 0,
+						"y": 322,
+						"w": 212,
+						"h": 156
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 41,
+						"w": 211,
+						"h": 155
+					},
+					"frame": {
+						"x": 1104,
+						"y": 0,
+						"w": 211,
+						"h": 155
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 40,
+						"w": 211,
+						"h": 156
+					},
+					"frame": {
+						"x": 893,
+						"y": 0,
+						"w": 211,
+						"h": 156
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 40,
+						"w": 210,
+						"h": 155
+					},
+					"frame": {
+						"x": 1104,
+						"y": 155,
+						"w": 210,
+						"h": 155
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 40,
+						"w": 210,
+						"h": 154
+					},
+					"frame": {
+						"x": 1735,
+						"y": 154,
+						"w": 210,
+						"h": 154
+					}
+				},
+				{
+					"filename": "survivor-move_handgun_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 258,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 39,
+						"w": 210,
+						"h": 154
+					},
+					"frame": {
+						"x": 1524,
+						"y": 308,
+						"w": 210,
+						"h": 154
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

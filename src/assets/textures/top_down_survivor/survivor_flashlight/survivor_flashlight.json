@@ -1,0 +1,1174 @@
+{
+	"textures": [
+		{
+			"image": "survivor_flashlight",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1913,
+				"h": 1315
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "survivor-meleeattack_flashlight_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 316,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 55,
+						"w": 280,
+						"h": 159
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 159
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_flashlight_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 316,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 54,
+						"w": 278,
+						"h": 160
+					},
+					"frame": {
+						"x": 280,
+						"y": 0,
+						"w": 278,
+						"h": 160
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_flashlight_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 316,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 52,
+						"w": 274,
+						"h": 162
+					},
+					"frame": {
+						"x": 0,
+						"y": 159,
+						"w": 274,
+						"h": 162
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 24,
+						"w": 272,
+						"h": 174
+					},
+					"frame": {
+						"x": 558,
+						"y": 0,
+						"w": 272,
+						"h": 174
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 24,
+						"w": 272,
+						"h": 173
+					},
+					"frame": {
+						"x": 274,
+						"y": 160,
+						"w": 272,
+						"h": 173
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 25,
+						"w": 272,
+						"h": 172
+					},
+					"frame": {
+						"x": 0,
+						"y": 321,
+						"w": 272,
+						"h": 172
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 24,
+						"w": 271,
+						"h": 173
+					},
+					"frame": {
+						"x": 830,
+						"y": 0,
+						"w": 271,
+						"h": 173
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 271,
+						"h": 171
+					},
+					"frame": {
+						"x": 1101,
+						"y": 0,
+						"w": 271,
+						"h": 171
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_flashlight_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 316,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 50,
+						"w": 271,
+						"h": 164
+					},
+					"frame": {
+						"x": 1372,
+						"y": 0,
+						"w": 271,
+						"h": 164
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 25,
+						"w": 270,
+						"h": 172
+					},
+					"frame": {
+						"x": 1643,
+						"y": 0,
+						"w": 270,
+						"h": 172
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 28,
+						"w": 270,
+						"h": 169
+					},
+					"frame": {
+						"x": 1372,
+						"y": 164,
+						"w": 270,
+						"h": 169
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 27,
+						"w": 268,
+						"h": 170
+					},
+					"frame": {
+						"x": 1101,
+						"y": 172,
+						"w": 268,
+						"h": 170
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 28,
+						"w": 268,
+						"h": 169
+					},
+					"frame": {
+						"x": 830,
+						"y": 173,
+						"w": 268,
+						"h": 169
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 29,
+						"w": 268,
+						"h": 168
+					},
+					"frame": {
+						"x": 546,
+						"y": 174,
+						"w": 268,
+						"h": 168
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 29,
+						"w": 268,
+						"h": 168
+					},
+					"frame": {
+						"x": 272,
+						"y": 333,
+						"w": 268,
+						"h": 168
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 29,
+						"w": 268,
+						"h": 168
+					},
+					"frame": {
+						"x": 0,
+						"y": 493,
+						"w": 268,
+						"h": 168
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 29,
+						"w": 268,
+						"h": 168
+					},
+					"frame": {
+						"x": 1642,
+						"y": 172,
+						"w": 268,
+						"h": 168
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 30,
+						"w": 268,
+						"h": 167
+					},
+					"frame": {
+						"x": 1369,
+						"y": 333,
+						"w": 268,
+						"h": 167
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 30,
+						"w": 268,
+						"h": 167
+					},
+					"frame": {
+						"x": 1369,
+						"y": 500,
+						"w": 268,
+						"h": 167
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 30,
+						"w": 268,
+						"h": 167
+					},
+					"frame": {
+						"x": 1637,
+						"y": 340,
+						"w": 268,
+						"h": 167
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 30,
+						"w": 268,
+						"h": 167
+					},
+					"frame": {
+						"x": 1637,
+						"y": 507,
+						"w": 268,
+						"h": 167
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 30,
+						"w": 268,
+						"h": 166
+					},
+					"frame": {
+						"x": 540,
+						"y": 342,
+						"w": 268,
+						"h": 166
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 30,
+						"w": 268,
+						"h": 166
+					},
+					"frame": {
+						"x": 268,
+						"y": 501,
+						"w": 268,
+						"h": 166
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_flashlight_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 316,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 49,
+						"w": 268,
+						"h": 164
+					},
+					"frame": {
+						"x": 0,
+						"y": 661,
+						"w": 268,
+						"h": 164
+					}
+				},
+				{
+					"filename": "survivor-move_flashlight_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 305,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 30,
+						"w": 267,
+						"h": 166
+					},
+					"frame": {
+						"x": 808,
+						"y": 342,
+						"w": 267,
+						"h": 166
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 21,
+						"w": 266,
+						"h": 168
+					},
+					"frame": {
+						"x": 1075,
+						"y": 342,
+						"w": 266,
+						"h": 168
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 21,
+						"w": 266,
+						"h": 168
+					},
+					"frame": {
+						"x": 1075,
+						"y": 510,
+						"w": 266,
+						"h": 168
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 22,
+						"w": 266,
+						"h": 167
+					},
+					"frame": {
+						"x": 1341,
+						"y": 667,
+						"w": 266,
+						"h": 167
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 22,
+						"w": 266,
+						"h": 167
+					},
+					"frame": {
+						"x": 1607,
+						"y": 674,
+						"w": 266,
+						"h": 167
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 23,
+						"w": 266,
+						"h": 166
+					},
+					"frame": {
+						"x": 536,
+						"y": 508,
+						"w": 266,
+						"h": 166
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 23,
+						"w": 266,
+						"h": 166
+					},
+					"frame": {
+						"x": 268,
+						"y": 667,
+						"w": 266,
+						"h": 166
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 24,
+						"w": 266,
+						"h": 165
+					},
+					"frame": {
+						"x": 0,
+						"y": 825,
+						"w": 266,
+						"h": 165
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 24,
+						"w": 266,
+						"h": 165
+					},
+					"frame": {
+						"x": 802,
+						"y": 508,
+						"w": 266,
+						"h": 165
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 24,
+						"w": 266,
+						"h": 165
+					},
+					"frame": {
+						"x": 802,
+						"y": 673,
+						"w": 266,
+						"h": 165
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_flashlight_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 316,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 48,
+						"w": 266,
+						"h": 165
+					},
+					"frame": {
+						"x": 534,
+						"y": 678,
+						"w": 266,
+						"h": 165
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_flashlight_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 316,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 39,
+						"w": 265,
+						"h": 170
+					},
+					"frame": {
+						"x": 266,
+						"y": 833,
+						"w": 265,
+						"h": 170
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 22,
+						"w": 265,
+						"h": 167
+					},
+					"frame": {
+						"x": 0,
+						"y": 990,
+						"w": 265,
+						"h": 167
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 23,
+						"w": 265,
+						"h": 166
+					},
+					"frame": {
+						"x": 1068,
+						"y": 678,
+						"w": 265,
+						"h": 166
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_flashlight_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 316,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 34,
+						"w": 254,
+						"h": 176
+					},
+					"frame": {
+						"x": 800,
+						"y": 841,
+						"w": 254,
+						"h": 176
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_flashlight_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 316,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 19,
+						"w": 249,
+						"h": 191
+					},
+					"frame": {
+						"x": 800,
+						"y": 1017,
+						"w": 249,
+						"h": 191
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_flashlight_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 316,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 55,
+						"w": 247,
+						"h": 155
+					},
+					"frame": {
+						"x": 531,
+						"y": 843,
+						"w": 247,
+						"h": 155
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_flashlight_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 316,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 53,
+						"w": 241,
+						"h": 157
+					},
+					"frame": {
+						"x": 531,
+						"y": 998,
+						"w": 241,
+						"h": 157
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_flashlight_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 316,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 44,
+						"w": 227,
+						"h": 175
+					},
+					"frame": {
+						"x": 265,
+						"y": 1003,
+						"w": 227,
+						"h": 175
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_flashlight_9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 316,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 52,
+						"w": 226,
+						"h": 158
+					},
+					"frame": {
+						"x": 0,
+						"y": 1157,
+						"w": 226,
+						"h": 158
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_flashlight_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 316,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 56,
+						"w": 216,
+						"h": 160
+					},
+					"frame": {
+						"x": 1333,
+						"y": 834,
+						"w": 216,
+						"h": 160
+					}
+				},
+				{
+					"filename": "survivor-meleeattack_flashlight_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 316,
+						"h": 246
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 51,
+						"w": 211,
+						"h": 159
+					},
+					"frame": {
+						"x": 1333,
+						"y": 994,
+						"w": 211,
+						"h": 159
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 24,
+						"w": 266,
+						"h": 165
+					},
+					"frame": {
+						"x": 802,
+						"y": 508,
+						"w": 266,
+						"h": 165
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 21,
+						"w": 266,
+						"h": 168
+					},
+					"frame": {
+						"x": 1075,
+						"y": 510,
+						"w": 266,
+						"h": 168
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 22,
+						"w": 266,
+						"h": 167
+					},
+					"frame": {
+						"x": 1341,
+						"y": 667,
+						"w": 266,
+						"h": 167
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 22,
+						"w": 265,
+						"h": 167
+					},
+					"frame": {
+						"x": 0,
+						"y": 990,
+						"w": 265,
+						"h": 167
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 22,
+						"w": 266,
+						"h": 167
+					},
+					"frame": {
+						"x": 1607,
+						"y": 674,
+						"w": 266,
+						"h": 167
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 23,
+						"w": 266,
+						"h": 166
+					},
+					"frame": {
+						"x": 536,
+						"y": 508,
+						"w": 266,
+						"h": 166
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 23,
+						"w": 265,
+						"h": 166
+					},
+					"frame": {
+						"x": 1068,
+						"y": 678,
+						"w": 265,
+						"h": 166
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 23,
+						"w": 266,
+						"h": 166
+					},
+					"frame": {
+						"x": 268,
+						"y": 667,
+						"w": 266,
+						"h": 166
+					}
+				},
+				{
+					"filename": "survivor-idle_flashlight_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 303,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 24,
+						"w": 266,
+						"h": 165
+					},
+					"frame": {
+						"x": 802,
+						"y": 673,
+						"w": 266,
+						"h": 165
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}
