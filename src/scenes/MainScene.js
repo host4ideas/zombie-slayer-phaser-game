@@ -598,7 +598,7 @@ export default class MainScene extends Phaser.Scene {
 		if (Phaser.Input.Keyboard.JustDown(this.keyR)) {
 			survivor.anims.play(survivorAnimations["reload"]);
 
-			this.time.delayedCall(500, function () {
+			this.time.delayedCall(1000, function () {
 				currentMag = 20;
 				ammoInfo.setText(`Mag: ${currentMag}`);
 				reloadInfoText.visible = false;
