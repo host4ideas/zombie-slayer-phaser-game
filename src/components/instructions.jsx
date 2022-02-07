@@ -7,7 +7,7 @@ export default function Instructions() {
 				<h3><i className="far fa-keyboard"></i> CONTROLS <i className="far fa-keyboard"></i></h3>
 				<p>Movimiento: W (arriba) A (izquierda) S (abajo) D (derecha)</p>
 				<p>Disparo y recarga: Btn. izq. mouse (disparo) R (recarga)</p>
-				<p>Cambio de armas: 1 (linterna) 2 (cuchillo de combate) 3 (FN-7) 4 (AK-47) 4 (SPAS-12)</p>
+				<p>Cambio de armas: 1 (linterna) 2 (cuchillo de combate) 3 (FN 5.7) 4 (AK-47) 4 (SPAS-12)</p>
 			</div>
 			<div>
 				<h3><i className="fab fa-leanpub"></i> HOW TO PLAY <i className="fab fa-leanpub"></i></h3>
