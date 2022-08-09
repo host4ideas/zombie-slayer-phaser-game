@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/zombie-slayer-phaser-game/static/css/main.9ba68acf.css",
-    "main.js": "/zombie-slayer-phaser-game/static/js/main.73dbe743.js",
+    "main.css": "/zombie-slayer-phaser-game/static/css/main.8338317a.css",
+    "main.js": "/zombie-slayer-phaser-game/static/js/main.766f1d17.js",
     "static/media/wormhole.mp4": "/zombie-slayer-phaser-game/static/media/wormhole.3f70834a12508d8e2ba6.mp4",
     "static/media/2019-05-09_-_Escape_Chase_-_David_Fesliyan.mp3": "/zombie-slayer-phaser-game/static/media/2019-05-09_-_Escape_Chase_-_David_Fesliyan.74c71fa489a50732529a.mp3",
     "static/media/2021-11-14_-_Ogre_Boss_-_David_Fesliyan.mp3": "/zombie-slayer-phaser-game/static/media/2021-11-14_-_Ogre_Boss_-_David_Fesliyan.34c54cffaee2fc022327.mp3",
@@ -26,13 +26,13 @@
     "static/media/sci-fi-spaceship-525-sound-effect.mp3": "/zombie-slayer-phaser-game/static/media/sci-fi-spaceship-525-sound-effect.66604ac89b792426556b.mp3",
     "static/media/1911-.45-ACP-Close-Single-Gunshot-A.mp3": "/zombie-slayer-phaser-game/static/media/1911-.45-ACP-Close-Single-Gunshot-A.c3758da69fba98025f46.mp3",
     "static/media/Menu-Selection-Change-D2.mp3": "/zombie-slayer-phaser-game/static/media/Menu-Selection-Change-D2.80ae1f48d93ed9074f9f.mp3",
-    "static/media/logo.svg": "/zombie-slayer-phaser-game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/react-logo.svg": "/zombie-slayer-phaser-game/static/media/react-logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/zombie-slayer-phaser-game/index.html",
-    "main.9ba68acf.css.map": "/zombie-slayer-phaser-game/static/css/main.9ba68acf.css.map",
-    "main.73dbe743.js.map": "/zombie-slayer-phaser-game/static/js/main.73dbe743.js.map"
+    "main.8338317a.css.map": "/zombie-slayer-phaser-game/static/css/main.8338317a.css.map",
+    "main.766f1d17.js.map": "/zombie-slayer-phaser-game/static/js/main.766f1d17.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ba68acf.css",
-    "static/js/main.73dbe743.js"
+    "static/css/main.8338317a.css",
+    "static/js/main.766f1d17.js"
   ]
 }
