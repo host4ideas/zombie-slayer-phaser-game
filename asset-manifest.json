@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/zombie-slayer-phaser-game/static/css/main.9ba68acf.css",
+    "main.js": "/zombie-slayer-phaser-game/static/js/main.73dbe743.js",
+    "static/media/wormhole.mp4": "/zombie-slayer-phaser-game/static/media/wormhole.3f70834a12508d8e2ba6.mp4",
+    "static/media/2019-05-09_-_Escape_Chase_-_David_Fesliyan.mp3": "/zombie-slayer-phaser-game/static/media/2019-05-09_-_Escape_Chase_-_David_Fesliyan.74c71fa489a50732529a.mp3",
+    "static/media/2021-11-14_-_Ogre_Boss_-_David_Fesliyan.mp3": "/zombie-slayer-phaser-game/static/media/2021-11-14_-_Ogre_Boss_-_David_Fesliyan.34c54cffaee2fc022327.mp3",
+    "static/media/survivor_rifle.png": "/zombie-slayer-phaser-game/static/media/survivor_rifle.23722c28d815864b6106.png",
+    "static/media/survivor_shotgun.png": "/zombie-slayer-phaser-game/static/media/survivor_shotgun.c4ce94a3a975a40046ef.png",
+    "static/media/survivor_handgun.png": "/zombie-slayer-phaser-game/static/media/survivor_handgun.d381b77bb200bda16c60.png",
+    "static/media/survivor_knife.png": "/zombie-slayer-phaser-game/static/media/survivor_knife.d887605ee899d14bb18d.png",
+    "static/media/texture.png": "/zombie-slayer-phaser-game/static/media/texture.c00a045badae40a43af4.png",
+    "static/media/survivor_flashlight.png": "/zombie-slayer-phaser-game/static/media/survivor_flashlight.19d5fd57f1e8beb337f0.png",
+    "static/media/60_Second-2022-02-01_-_Eat_This.mp3": "/zombie-slayer-phaser-game/static/media/60_Second-2022-02-01_-_Eat_This.a3fd26f234b4723bf576.mp3",
+    "static/media/phaser-logo.png": "/zombie-slayer-phaser-game/static/media/phaser-logo.c3b32abeffbae0f94f9b.png",
+    "static/media/Zombie-Aggressive-Attack-A4.mp3": "/zombie-slayer-phaser-game/static/media/Zombie-Aggressive-Attack-A4.bf49408073d88b63a2cc.mp3",
+    "static/media/Zombie-Aggressive-Attack-A7.mp3": "/zombie-slayer-phaser-game/static/media/Zombie-Aggressive-Attack-A7.41d53d9894aeb115ee47.mp3",
+    "static/media/Zombie-Aggressive-Attack-A2.mp3": "/zombie-slayer-phaser-game/static/media/Zombie-Aggressive-Attack-A2.7db40a9097f9accc9417.mp3",
+    "static/media/Zombie-Aggressive-Attack-A1.mp3": "/zombie-slayer-phaser-game/static/media/Zombie-Aggressive-Attack-A1.38d45997a98a7b4c308e.mp3",
+    "static/media/12-Gauge-Pump-Action-Shotgun-Close-Gunshot-A.mp3": "/zombie-slayer-phaser-game/static/media/12-Gauge-Pump-Action-Shotgun-Close-Gunshot-A.1dca6572aa05dea6e0ee.mp3",
+    "static/media/5.56-AR15-Single-Close-GunShot-A.mp3": "/zombie-slayer-phaser-game/static/media/5.56-AR15-Single-Close-GunShot-A.65296f7024a432a5c48c.mp3",
+    "static/media/Zombie-Aggressive-Attack-A5.mp3": "/zombie-slayer-phaser-game/static/media/Zombie-Aggressive-Attack-A5.a00678c312534e7d743d.mp3",
+    "static/media/Lycanthrope.ttf": "/zombie-slayer-phaser-game/static/media/Lycanthrope.0c9a0f16bcdd2755de68.ttf",
+    "static/media/gtav_wasted.mp4": "/zombie-slayer-phaser-game/static/media/gtav_wasted.9fbeab7b566bb184d493.mp4",
+    "static/media/Zombie-Aggressive-Attack-A3.mp3": "/zombie-slayer-phaser-game/static/media/Zombie-Aggressive-Attack-A3.bf0c4c020634005ed86b.mp3",
+    "static/media/sci-fi-spaceship-525-sound-effect.mp3": "/zombie-slayer-phaser-game/static/media/sci-fi-spaceship-525-sound-effect.66604ac89b792426556b.mp3",
+    "static/media/1911-.45-ACP-Close-Single-Gunshot-A.mp3": "/zombie-slayer-phaser-game/static/media/1911-.45-ACP-Close-Single-Gunshot-A.c3758da69fba98025f46.mp3",
+    "static/media/Menu-Selection-Change-D2.mp3": "/zombie-slayer-phaser-game/static/media/Menu-Selection-Change-D2.80ae1f48d93ed9074f9f.mp3",
+    "static/media/logo.svg": "/zombie-slayer-phaser-game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/zombie-slayer-phaser-game/index.html",
+    "main.9ba68acf.css.map": "/zombie-slayer-phaser-game/static/css/main.9ba68acf.css.map",
+    "main.73dbe743.js.map": "/zombie-slayer-phaser-game/static/js/main.73dbe743.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ba68acf.css",
+    "static/js/main.73dbe743.js"
+  ]
+}
