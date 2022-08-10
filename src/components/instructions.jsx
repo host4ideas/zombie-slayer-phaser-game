@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Instructions() {
 	return (
-		<div className="instructions">
+		<div className="menu-option-text">
 			<div>
 				<h3><i className="far fa-keyboard"></i> CONTROLS <i className="far fa-keyboard"></i></h3>
 				<p>Movimiento: W (arriba) A (izquierda) S (abajo) D (derecha)</p>

@@ -1,27 +1,47 @@
-.App {
-  text-align: center;
+/* Game canvas */
+canvas {
+  width: 100%;
   position: absolute;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-.App-button {
-  font-size: calc(10px + 1vmin);
-  cursor: pointer;
-  margin-top: 20px;
-}
-
+/* Progress bar */
 #progressBar {
   background-color: rgb(126, 126, 126);
   width: 0%;
   height: 50px;
 }
 
+.App {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+/* Play button */
+.App-button {
+  font-size: calc(10px + 1vmin);
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.centered-button {
+  text-align: center;
+}
+
+/* Menu options */
+
+.menu-options {
+  margin: auto 200px;
+  margin-bottom: 100px;
+}
+
 .menu-option {
   cursor: pointer;
-  margin: auto;
+  margin: 50px auto;
   width: fit-content;
 }
 
@@ -29,15 +49,11 @@
   color: rgb(238, 51, 51);
 }
 
-.menu-option>div * {
-  color: aliceblue;
-}
-
 .menu-option>div *:hover {
   color: rgb(238, 51, 51);
 }
 
-canvas {
-  width: 100%;
-  position: absolute;
+.menu-option-text {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: aliceblue;
 }

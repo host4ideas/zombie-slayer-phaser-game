@@ -1,13 +1,13 @@
 import React from "react";
-import logo from '../logo.svg';
-import phaserLogo from '../phaser-logo.png';
+import reactLogo from '../assets/react-logo.svg';
+import phaserLogo from '../assets/phaser-logo.png';
 
 export default function Header() {
 	return (
 		<header className="App-header">
-			<img src={logo} className="App-logo react-logo" alt="logo" />
+			<img src={reactLogo} className="App-logo react-logo" alt="React logo" />
 			<h1 className="horror-text">ZOMBIE SLAYER</h1>
-			<img src={phaserLogo} className="App-logo phaser-logo" alt="phaser-logo" />
+			<img src={phaserLogo} className="App-logo phaser-logo" alt="Phaser logo" />
 		</header>
 	)
 }

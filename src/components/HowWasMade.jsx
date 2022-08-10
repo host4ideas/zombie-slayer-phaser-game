@@ -2,7 +2,7 @@ import React from "react";
 
 export default function HowMade() {
 	return (
-		<div className="how-was-made">
+		<div className="menu-option-text">
 			<div>
 				This proyect has been made using Phaser as the library for the entire game and React for the website itself,
 				all based in the following template:

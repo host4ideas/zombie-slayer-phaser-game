@@ -29,9 +29,8 @@
 
 <br/>
 
-### This proyect has been made using Phaser as the library for the entire game and React for the website itself,
-### all based in the following template:
-### <a href="https://github.com/kevinshen56714/create-react-phaser3-app">Link to template</a>
+## This proyect has been made using Phaser as the library for the entire game and React for the website itself, all based in the following template:
+## [Link to template]("https://github.com/kevinshen56714/create-react-phaser3-app")
 
 <br/>
 <br/>
@@ -101,11 +100,12 @@
 
 > `npm run start`
 
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 <br/>
+
+In order to make a production build of the project run:
 
 > `yarn build` or `npm run build`
 
